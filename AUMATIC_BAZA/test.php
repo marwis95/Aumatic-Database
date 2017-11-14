@@ -1,0 +1,1 @@
+<label class="name"><input type="text" name="username" value="nazwa" onfocus="if(this.value=='nazwa') this.value=''; " onblur="if(this.value=='') this.value='nazwa';" /></label>
